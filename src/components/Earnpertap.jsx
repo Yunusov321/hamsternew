@@ -3,7 +3,7 @@ import { BsCoin } from "react-icons/bs"
 
 const Earnpertap = ({ onClose }) => {
   return (
-    <div className="bg-[#2b2b2b] w-[350px] p-4 rounded-2xl text-yellow-300 m-auto mt-6 shadow-md relative">
+    <div className="bg-[#25B67] w-[350px] p-4 rounded-2xl text-yellow-300 m-auto mt-6 shadow-md relative">
 
       <div className="flex justify-end mb-2">
         <button onClick={onClose} className="text-xl">✖</button>
